@@ -5,12 +5,10 @@ Below are the steps that involves step by step development of this project:
 2. Edge Detection: Identifying sharp changes in intensity in adjacent pixels. 
 Image is made up of pixels: intensity from 0 to 255, 0 for black and 255 for white.
 3. Image noise reduction: By using Gaussian Blur, it average out the pixel's brighteness using it's neighbouring pixels.
-4. 
-
-Bitwise AND Operation: This occurs between two images element - wise, between two arrays of pixels.
+4. Bitwise AND Operation: This occurs between two images element - wise, between two arrays of pixels.
 Computing the bitwise & of both images as we saw in the theory section, takes the bitwise & of each homologous pixel in both arrays, ultimately masking the canny image to only show the region of interest traced by the polygonal contour of the mask.
 
-===================================================================================================================
+# Concept used
 HOUGH SPACE: it is a parametric space.
 let a line: y=mx+b
 in Cartesian Coordinate we plot curve b/w x&y.
