@@ -21,8 +21,3 @@ Now, there can be a straight line, having a slope of infinite. But this infinite
         where rho and ɵ are parameters.
 So, the representation of parametric condition of polar coordinate system in Hough Space is Sinosuidal. 
 And, for different family of lines in POLAR COORDINATE SYSTEM(PCS), different SINOSUIDAL curve interesect at a point in a Hough Space. That show that for a particular value of rho and ɵ lines in PCS are consistent.
-
-But where does it going to help??
-We want a best fit line.
-===================================================================================================================
-
